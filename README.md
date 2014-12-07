@@ -2,4 +2,4 @@ hello-world
 ===========
 
 Tutorial / intro to Git
-Editing file
+I love my puppy dog
